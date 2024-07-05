@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my email address gaurang244@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an app in Android and iOS I made from scratch by self-learning called "Fluid Estimator"
+![Photo_2](https://github.com/gaurang248/gaurang248/assets/174157230/fcc50491-82d5-4a48-831c-a50a70a89e53)
